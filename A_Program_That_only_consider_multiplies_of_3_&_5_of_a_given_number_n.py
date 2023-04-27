@@ -1,4 +1,4 @@
-# Write a program tat asks the user their name and greets them with their name. 
+# Write a program that asks the user their name and greets them with their name. 
 # The program should ask the user for a number "n" and print the sum of the 
 # numbers 1 to n. Only multiples of 3 and 5 should be considered in the sum, 
 # e.g 3, 5, 6, 9, 10 e.t.c
