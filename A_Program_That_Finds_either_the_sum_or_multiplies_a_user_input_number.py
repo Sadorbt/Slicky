@@ -1,4 +1,4 @@
-# Write a program that asks the user f0r a numer n and 
+# Write a program that asks the user f0r a number n and 
 # gives them the possibility to choose between computing
 # the sum and computing the product.
 user_input = int(input("input a number of your choice here "))
